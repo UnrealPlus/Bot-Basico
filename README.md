@@ -1,2 +1,2 @@
 # Bot-Basico
-uma amostras de um bot simples e eficiente
+uma amostra de um bot simples e eficiente
